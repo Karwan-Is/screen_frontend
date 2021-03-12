@@ -1,0 +1,10 @@
+@use 'variables';
+
+.contact{
+    height: 450px;
+    border: variables.$border-color 1px solid;
+    h1{
+        padding: 30px;
+        text-align: justify;
+    }
+}
