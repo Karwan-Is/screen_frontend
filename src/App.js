@@ -20,6 +20,7 @@ function App() {
         <div className="main-container">
           <Switch>
             <Route exact path='/' component={Home} />
+            <Route exact path='/screen_deploy_client' component={Home} />
             <Route path='/movies' component={Movies} />
             <Route path='/series' component={Series} />
             <Route path='/about' component={About} />
