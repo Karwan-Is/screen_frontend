@@ -1,22 +1,22 @@
 {
   "files": {
-    "main.css": "/react-node-jwt-sass/static/css/main.be39388a.chunk.css",
-    "main.js": "/react-node-jwt-sass/static/js/main.f763aa0d.chunk.js",
-    "main.js.map": "/react-node-jwt-sass/static/js/main.f763aa0d.chunk.js.map",
-    "runtime-main.js": "/react-node-jwt-sass/static/js/runtime-main.9a3f3c75.js",
-    "runtime-main.js.map": "/react-node-jwt-sass/static/js/runtime-main.9a3f3c75.js.map",
-    "static/js/2.4da6d78d.chunk.js": "/react-node-jwt-sass/static/js/2.4da6d78d.chunk.js",
-    "static/js/2.4da6d78d.chunk.js.map": "/react-node-jwt-sass/static/js/2.4da6d78d.chunk.js.map",
-    "index.html": "/react-node-jwt-sass/index.html",
-    "static/css/main.be39388a.chunk.css.map": "/react-node-jwt-sass/static/css/main.be39388a.chunk.css.map",
-    "static/js/2.4da6d78d.chunk.js.LICENSE.txt": "/react-node-jwt-sass/static/js/2.4da6d78d.chunk.js.LICENSE.txt",
-    "static/media/styles.css": "/react-node-jwt-sass/static/media/bg.0af93c94.jpg",
-    "static/media/search_icon.svg.a1622a47.png": "/react-node-jwt-sass/static/media/search_icon.svg.a1622a47.png"
+    "main.css": "/screen_frontend/static/css/main.2159cc17.chunk.css",
+    "main.js": "/screen_frontend/static/js/main.f763aa0d.chunk.js",
+    "main.js.map": "/screen_frontend/static/js/main.f763aa0d.chunk.js.map",
+    "runtime-main.js": "/screen_frontend/static/js/runtime-main.3149cb1c.js",
+    "runtime-main.js.map": "/screen_frontend/static/js/runtime-main.3149cb1c.js.map",
+    "static/js/2.4da6d78d.chunk.js": "/screen_frontend/static/js/2.4da6d78d.chunk.js",
+    "static/js/2.4da6d78d.chunk.js.map": "/screen_frontend/static/js/2.4da6d78d.chunk.js.map",
+    "index.html": "/screen_frontend/index.html",
+    "static/css/main.2159cc17.chunk.css.map": "/screen_frontend/static/css/main.2159cc17.chunk.css.map",
+    "static/js/2.4da6d78d.chunk.js.LICENSE.txt": "/screen_frontend/static/js/2.4da6d78d.chunk.js.LICENSE.txt",
+    "static/media/styles.css": "/screen_frontend/static/media/bg.0af93c94.jpg",
+    "static/media/search_icon.svg.a1622a47.png": "/screen_frontend/static/media/search_icon.svg.a1622a47.png"
   },
   "entrypoints": [
-    "static/js/runtime-main.9a3f3c75.js",
+    "static/js/runtime-main.3149cb1c.js",
     "static/js/2.4da6d78d.chunk.js",
-    "static/css/main.be39388a.chunk.css",
+    "static/css/main.2159cc17.chunk.css",
     "static/js/main.f763aa0d.chunk.js"
   ]
 }
