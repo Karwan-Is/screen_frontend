@@ -10,4 +10,4 @@ and then you can run:
 
 ### `To see the project online open this link`
 
-karwan-is.github.io/screen_frontend
+https://karwan-is.github.io/screen_frontend
