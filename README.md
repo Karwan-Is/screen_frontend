@@ -7,3 +7,7 @@ In the project directory, you can run:
 and then you can run:
 
 ### `npm start`
+
+### `To see the project online open this link`
+
+karwan-is.github.io/screen_frontend
